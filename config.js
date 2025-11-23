@@ -34,33 +34,36 @@ operations`,            image: "/projects/project-2.webp",
             github: "#",
             demo: "#"
         },
-        // {
-        //     id: 3,
-        //     title: "Blockchain Voting System",
-        //     description: "A secure, transparent, and decentralized voting platform built on Ethereum. Features smart contract-based voting, anonymous ballots, real-time result tracking, and immutable audit trails. Ensures election integrity through cryptographic verification.",
-        //     image: "/projects/project-3.webp",
-        //     technologies: ["Solidity", "Web3.js", "React", "Ethereum", "IPFS", "MetaMask"],
-        //     github: "#",
-        //     demo: "#"
-        // },
-        // {
-        //     id: 4,
-        //     title: "Cloud Infrastructure Dashboard",
-        //     description: "A comprehensive cloud management platform for monitoring, managing, and optimizing multi-cloud infrastructure. Features real-time metrics, cost analysis, automated scaling, and security compliance monitoring across AWS, Azure, and GCP.",
-        //     image: "/projects/project-4.webp",
-        //     technologies: ["Go", "Kubernetes", "Grafana", "Prometheus", "Terraform", "React"],
-        //     github: "#",
-        //     demo: "#"
-        // },
-        // {
-        //     id: 5,
-        //     title: "Neural Network Visualizer",
-        //     description: "An interactive web application for visualizing, training, and experimenting with neural networks. Features drag-and-drop architecture builder, real-time training visualization, model comparison tools, and export capabilities for production deployment.",
-        //     image: "/projects/project-5.webp",
-        //     technologies: ["Python", "TensorFlow.js", "D3.js", "Next.js", "WebGL", "TypeScript"],
-        //     github: "#",
-        //     demo: "#"
-        // }
+        {
+            id: 3,
+            title: "DMS File Management System",
+            description: `Built dashboards, search filters, and barcode integration for real-time stock visibility. 
+            Implemented authentication and role-based permissions.`,
+            image: "/projects/project-3.webp",
+            technologies: [`React.js`, `Node.js`,` Express.js`, `PostgreSQL`, `TypeScript`],
+            github: "#",
+            demo: "#"
+        },
+        {
+            id: 4,
+            title: "Warehouse Management System (WMS)",
+            description:`Streamlined inventory tracking, order management, and supplier coordination. 
+            Built dashboards, search filters, and barcode integration for real-time stock visibility.`,
+            image: "/projects/project-4.webp",
+            technologies: [`React.js`, `Node.js`,` Express.js`, `PostgreSQL`, `TypeScript`],
+            github: "#",
+            demo: "#"
+        },
+        {
+            id: 5,
+            title: "Enginero - Building Management System",
+            description: `Developed a centralized platform for managing building infrastructure, maintenance schedules, and tenant requests
+            .Integrated real-time monitoring tools and automated alerts for system failures.`,
+            image: "/projects/project-5.webp",
+            technologies: [`React.js`, `Node.js`,` Express.js`, `PostgreSQL`, `TypeScript`],
+            github: "#",
+            demo: "#"
+        }
  
     ],
     skills: [
