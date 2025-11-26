@@ -1,4 +1,4 @@
-import { FaDiscord, FaGithub, FaMapPin } from "react-icons/fa";
+import { FaDiscord, FaGithub, FaMapPin , FaLinkedin } from "react-icons/fa";
 import { HiCode, HiCube, HiDatabase, HiMail, HiBriefcase } from "react-icons/hi";
 
 export const config = {
@@ -158,6 +158,12 @@ operations`,            image: "/projects/project-2.webp",
             label: "Email",
             value: "gnana.moorthy.devv@gmail.com",
             link: "mailto:gnana.moorthy.devv@gmail.com"
+        },
+         {
+            icon: <FaLinkedin className="w-5 h-5" />,
+            label: "LinkedIn",
+            value: "linkedin.com/gnanamoorthy",
+            link: "https://www.linkedin.com/in/gnana-moorthy-d-0a6bb6261/"
         },
         {
             icon: <FaMapPin className="w-5 h-5" />,

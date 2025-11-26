@@ -29,13 +29,13 @@ A modern and responsive portfolio website to showcase my projects, skills, and e
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/huzaifahmedz/portfolio-website.git
+   git clone https://github.com/GnanaMoorthy06/Gnana_Moorthy_Portfolio.git
    ```
 
 2. Navigate into the project directory:
 
    ```bash
-   cd portfolio-website
+   cd Gnana_Moorthy_Portfolio
    ```
 
 3. Install dependencies:
