@@ -164,7 +164,7 @@ operations`,            image: "/projects/project-2.webp",
             icon: <FaLinkedin className="w-5 h-5" />,
             label: "LinkedIn",
             value: "linkedin.com/gnanamoorthy",
-            link: "https://www.linkedin.com/in/gnana-moorthy-d-0a6bb6261/"
+            link: "https://www.linkedin.com/in/gnana-moorthy"
         },
         {
             icon: <FaMapPin className="w-5 h-5" />,
