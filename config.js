@@ -169,7 +169,7 @@ operations`,            image: "/projects/project-2.webp",
         {
             icon: <FaMapPin className="w-5 h-5" />,
             label: "Location",
-            value: "India",
+            value: "Chennai , India",
             link: null
         }
     ]
