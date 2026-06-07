@@ -120,7 +120,7 @@ const ContactButton = ({ isMobile = false, onLinkClick }) => (
     </Link>
 
     {/* Download CV Button */}
-    <Link href="/Gnana_Moorthy_Resume.pdf" target="_blank" download className={isMobile ? 'w-full' : ''}>
+    <Link href="/Gnana_moorthy_Full_Stack_Developer.pdf" target="_blank" download className={isMobile ? 'w-full' : ''}>
       <Button className={`${isMobile ? 'w-full' : ''} rounded-2xl font-semibold bg-secondary text-white hover:bg-secondary/80 text-sm sm:text-base px-4 sm:px-6 py-2 sm:py-3`}>
         <span className="hidden sm:inline">Download Resume</span>
         <span className="sm:hidden">Resume</span>

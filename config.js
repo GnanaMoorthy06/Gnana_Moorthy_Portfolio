@@ -76,7 +76,7 @@ operations`,            image: "/projects/project-2.webp",
             skills: [
                 
                 { name: "React", level: "Advanced" ,  hot: true},
-                { name: "MUI", level: "Advanced" }
+                { name: "Tailwind CSS", level: "Advanced" , hot: true}
 
             ]
         },
